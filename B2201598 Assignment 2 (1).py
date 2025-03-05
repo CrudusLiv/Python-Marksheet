@@ -1,6 +1,5 @@
-
-
-#import histogram for grade distributuion
+import os 
+import json  
 import matplotlib.pyplot as plt
 
 def menu(): # a menu of grades for a teacher. It lists the different grade ranges and their corresponding grades. 
